@@ -1,4 +1,4 @@
-import "../index.js";
+import "../index";
 import { expect, test } from "vitest";
 
 test("something!", () => {
